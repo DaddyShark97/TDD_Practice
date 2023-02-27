@@ -1,1 +1,0 @@
-TDD: find min and max value
