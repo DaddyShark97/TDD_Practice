@@ -7,3 +7,4 @@ TDD practice/tasks
 2. TDD Exceptions
 3. TDD if Long
 4. TDD if else
+5. TDD a^2 - b^2 = (a + b) * (a - b)
